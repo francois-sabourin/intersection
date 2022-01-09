@@ -1,0 +1,22 @@
+{
+  "name": "intersection",
+  "version": "1.0.0",
+  "description": "\"# intersection\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francois-sabourin/intersection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francois-sabourin/intersection/issues"
+  },
+  "homepage": "https://github.com/francois-sabourin/intersection#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
